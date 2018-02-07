@@ -1,0 +1,39 @@
+body{
+  font-family: 'Noto Serif', serif;
+font-family: 'Josefin Sans', sans-serif;
+background-color: rgb(21, 36, 58);
+text-align: center;
+color: rgb(186, 197, 214);
+border: 80px solid rgb(130, 15, 118);
+border-top: 5px;
+margin: 0px;
+
+}
+
+h1{
+  color: rgb(40, 237, 217);
+}
+
+h3{
+  color: rgb(124, 244, 44);
+}
+p{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 5px;
+padding: 5px;
+}
+
+#sub{
+  background: rgb(51, 234, 42);
+  height: 40px;
+  width: 80px;
+  margin-top: 10px;
+  border-radius: 18px;
+}
